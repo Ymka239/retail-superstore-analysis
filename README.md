@@ -78,21 +78,3 @@ What is the monthly trend of sales — are there seasonal peaks?
 Python 3.10+
 
 pandas, numpy, matplotlib
-
-## ✨ Authors
-
-- **Person 1: Proposal & Dataset**  
-  *Aseel Faisal Farah* — Student ID: **202401010249**  
-  (Project proposal, dataset selection, upload to GitHub)
-
-- **Person 2: Python Application**  
-  *Aleksandra Tarskaia* — Student ID: **202409010478**  
-  (Data cleaning, descriptive statistics, upload code to GitHub)
-
-- **Person 3: BI Dashboard**  
-  *Hossain Safwan Iqbal* — Student ID: **202401010324**  
-  (BI dashboard with 5 visualizations, filters, and insights)
-
-- **Person 4: Report, Slides & GitHub**  
-  *MD. Junayed* — Student ID: **202407010028**  
-  (Final report, presentation slides, GitHub organization)
