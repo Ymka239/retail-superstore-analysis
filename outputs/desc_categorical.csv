@@ -1,0 +1,17 @@
+,n_unique,top
+Order ID,5009,CA-2017-100111
+Order Date,1237,2016-09-05 00:00:00
+Ship Date,1334,2015-12-16 00:00:00
+Ship Mode,4,Standard Class
+Customer ID,793,WB-21850
+Customer Name,793,William Brown
+Segment,3,Consumer
+Country,1,United States
+City,531,New York City
+State,49,California
+Region,4,West
+Product ID,1862,OFF-PA-10001970
+Category,3,Office Supplies
+Sub-Category,17,Binders
+Product Name,1850,Staple envelope
+OrderMonth,48,2017-12-01 00:00:00
