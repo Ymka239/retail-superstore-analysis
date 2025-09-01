@@ -9,43 +9,24 @@ The focus is on cleaning the raw data, generating descriptive statistics, and pr
 retail-superstore/
 
 ├─ data/ # input dataset
-
 │ └─ US Superstore data - Orders.csv
-
 ├─ outputs/ # generated artifacts
-
 │ ├─ superstore_clean.csv
-
 │ ├─ desc_numeric.csv
-
 │ ├─ desc_categorical.csv
-
 │ ├─ group_by_category.csv
-
 │ ├─ group_by_subcategory.csv
-
 │ ├─ group_by_region.csv
-
 │ ├─ group_by_state.csv
-
 │ ├─ monthly_sales.csv
-
 │ ├─ top10_products.csv
-
 │ ├─ kpi_summary.json
-
 │ ├─ data_dictionary.csv
-
 │ ├─ sales_by_category.png
-
 │ ├─ monthly_sales.png
-
 │ └─ README.md
-
 ├─ src/
-
 │ └─ clean_and_describe.py
-
 └─ requirements.txt
 
 
